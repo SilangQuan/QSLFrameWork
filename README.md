@@ -1,6 +1,6 @@
 # QSLFramework
 
-QSLFramework is an open source project for shader-based OpenGL programming, which provides a collection of to functions to load textures，models and so on. The project is hosted on Github. 
+QSLFramework is an open source project for shader-based OpenGL programming,which provides a collection of to functions to load textures,models and so on. The project is hosted on Github. 
 https://github.com/SilangQuan/QSLFrameWork
 
 ##Features
