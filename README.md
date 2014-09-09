@@ -10,18 +10,18 @@ https://github.com/SilangQuan/QSLFrameWork
 - Open source.
 
 ##Dependent libraries
-SDL v2.01
-assimp v3.0.1270
-glew v1.10
-SDL_image v2.0
+SDL v2.01  
+assimp v3.0.1270  
+glew v1.10  
+SDL_image v2.0  
 
 ##How to run(Ubuntu)
-cd QSLFrameWork
-mkdir build
-cd build
-cmake ..
-make
-./main
+cd QSLFrameWork  
+mkdir build  
+cd build  
+cmake ..  
+make  
+./main  
 
 ##Samples
 ![1][1]
